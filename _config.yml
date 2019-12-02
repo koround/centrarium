@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Koround Eng
+subtitle: "자동제어/PLC/HMI 터치스크린/"
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
